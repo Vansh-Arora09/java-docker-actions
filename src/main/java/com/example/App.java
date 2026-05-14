@@ -1,1 +1,7 @@
-echo "package com.example; public class App { public static void main(String[] args) { System.out.println(\"Hello LPU!\"); } }"
+package com.example;
+
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello from GitHub Actions!");
+    }
+}
